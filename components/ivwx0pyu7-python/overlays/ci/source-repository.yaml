@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ivwx0pyu7-python-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ivwx0pyu7-python
